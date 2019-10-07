@@ -58,7 +58,7 @@ PennController("details" ,
 	       ,
 newText ("<p> Now Merlin is playing the shadow game with a cute baby dragon, who has to describe which animal he thinks the shadows belong to. </p>")
 	,
-  newText ("<p> Alongside the shadow, the images show all the animals in the game on the side, as well as the animals which are in front of the curtain. </p>")
+  newText ("<p> Alongside the shadows, the images show all the animals in the game on the side, as well as the animals which are in front of the curtain. </p>")
 ,
  newText ("<p> If there are no animals in front of the curtain, there will be a line instead. </p>")
 	       ,
@@ -142,7 +142,7 @@ PennController("trial2" ,
 	       ,
 	       newText ("<p> The baby dragon says: Some bunnies are pink. </p>")
 	       ,
-	      newText ("<p> The baby dragon's description is not the best one. The shadow does not belong to the pink bunnies, but to the green bunnies. </p>"),
+	      newText ("<p> The baby dragon's description is not the best one. The shadows do not belong to the pink bunnies, but to the green bunnies. </p>"),
 	       newText ("<p> Because of this, you will give the baby dragon a small apple, not a big apple. </p>"),
 	       newText ("<p> To reward the dragon, you will click on the apple which is his reward, in this case, the small apple.</p>")
 	       ,
@@ -1102,7 +1102,7 @@ PennController("experiment" ,
 	    defaultText
 	        .print()
 	       ,
-  newText ("<p> The baby dragon has to describe what he thinks is behind the shadow. </p>")
+  newText ("<p> The baby dragon has to describe what he thinks is behind the shadows. </p>")
 	       ,
   newText ("<p> If it's the best description, you have to reward the baby dragon with a big apple. </p>"),
    newText ("<p> If it's not the best description, you'll just give him a small apple.  </p>")
@@ -1849,7 +1849,7 @@ PennController("experiment" ,
 	    defaultText
 	        .print()
 	       ,
-  newText ("<p> The baby dragon has to describe what he thinks is behind the shadow. </p>")
+  newText ("<p> The baby dragon has to describe what he thinks is behind the shadows. </p>")
 	       ,
    newText ("<p> If it's the best description, you have to reward the baby dragon with a big apple. </p>"),
    newText ("<p> If it's not the best description, you'll just give him a small apple.  </p>")
@@ -3178,7 +3178,7 @@ PennController("experiment" ,
 	    defaultText
 	        .print()
 	       ,
-  newText ("<p> The baby dragon has to describe what he thinks is behind the shadow. </p>")
+  newText ("<p> The baby dragon has to describe what he thinks is behind the shadows. </p>")
 	       ,
   newText ("<p> If it's the best description, you have to reward the baby dragon with a big apple. </p>"),
    newText ("<p> If it's not the best description, you'll just give him a small apple.  </p>")
