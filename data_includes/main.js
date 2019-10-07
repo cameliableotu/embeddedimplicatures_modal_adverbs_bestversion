@@ -56,7 +56,7 @@ PennController("details" ,
 	        .print()
 	    
 	       ,
-newText ("<p> Now Merlin is playing the shadow game with a cute baby dragon, who has to describe which animal he thinks the shadows belong to. </p>")
+newText ("<p> Now Merlin is playing the shadow game with a cute baby dragon, who has to describe which animals he thinks the shadows belong to. </p>")
 	,
   newText ("<p> Alongside the shadows, the images show all the animals in the game on the side, as well as the animals which are in front of the curtain. </p>")
 ,
