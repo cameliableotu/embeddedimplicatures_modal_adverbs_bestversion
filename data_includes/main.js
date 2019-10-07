@@ -73,7 +73,7 @@ PennController("details" ,
 	    defaultText
 	        .print()
 	       ,
-  newText ("<p> The baby dragon has to describe what he thinks is behind the shadow. </p>")
+  newText ("<p> The baby dragon has to describe what he thinks is behind the shadows. </p>")
 	       ,
    newText ("<p> If it's the best description, you have to reward the baby dragon with a big apple. </p>"),
    newText ("<p> If it's not the best description, you'll just give him a small apple.  </p>")
@@ -319,6 +319,9 @@ PennController("introductionanimals" ,
 	       ,
 	       newAudio("cowsounds2sec", "cowsounds2sec.mp3")
 		.play()
+	       ,
+	       newText ("<p> To move to the next page, use the space bar. </p>")
+	       .print()
 	       ,
 	       newKey(" ")
         .wait()
@@ -657,6 +660,9 @@ PennController("experiment" ,
 	       	newAudio("barking", "barking.mp3")
 		.play()
 	       ,
+	       newText ("<p> To move to the next page, always use the space bar. </p>")
+	       .print()
+	       ,
 	       newKey(" ")
         .wait()
 	       
@@ -845,6 +851,9 @@ PennController("experiment" ,
 	       ,
 	       	newAudio("barking", "barking.mp3")
 		.play()
+	       ,
+	       newText ("<p> To move to the next page, use the space bar. </p>")
+	       .print()
 	       ,
 	       newKey(" ")
         .wait()
@@ -1070,6 +1079,9 @@ PennController("experiment" ,
 	       ,
 	       	newAudio("frogsounds2sec", "frogsounds2sec.mp3")
 		.play()
+	       ,
+	       newText ("<p> To move to the next page, use the space bar. </p>")
+	       .print()
 	       ,
 	       newKey(" ")
         .wait()
@@ -1298,6 +1310,9 @@ PennController("experiment" ,
     ,
 	       	newAudio("catsounds", "catsounds.mp3")
 		.play()
+	       ,
+	       newText ("<p> To move to the next page, use the space bar. </p>")
+	       .print()
 	       ,
 	       newKey(" ")
         .wait()  )
@@ -1632,6 +1647,9 @@ PennController("experiment" ,
 	       	newAudio("cowsounds2sec", "cowsounds2sec.mp3")
 		.play()
 	       ,
+	       newText ("<p> To move to the next page, use the space bar. </p>")
+	       .print()
+	       ,
 	       newKey(" ")
         .wait()
 	       
@@ -1817,6 +1835,9 @@ PennController("experiment" ,
 	       ,
 	       	newAudio("cowsounds2sec", "cowsounds2sec.mp3")
 		.play()
+	       ,
+	       newText ("<p> To move to the next page, use the space bar. </p>")
+	       .print()
 	       ,
 	       newKey(" ")
         .wait()
@@ -2045,6 +2066,9 @@ PennController("experiment" ,
     ,
 	       	newAudio("barking", "barking.mp3")
 		.play()
+	       ,
+	       newText ("<p> To move to the next page, use the space bar. </p>")
+	       .print()
 	       ,
 	       newKey(" ")
         .wait()
@@ -2410,6 +2434,9 @@ PennController("experiment" ,
 	       	newAudio("frogsounds2sec", "frogsounds2sec.mp3")
 		.play()
 	       ,
+	       newText ("<p> To move to the next page, use the space bar. </p>")
+	       .print()
+	       ,
 	       newKey(" ")
         .wait()
 	       
@@ -2607,6 +2634,9 @@ PennController("experiment" ,
 	       ,
 	       	newAudio("frogsounds2sec", "frogsounds2sec.mp3")
 		.play()
+	       ,
+	       newText ("<p> To move to the next page, use the space bar. </p>")
+	       .print()
 	       ,
 	       newKey(" ")
         .wait()
@@ -2953,6 +2983,9 @@ PennController("experiment" ,
 	       	newAudio("catsounds", "catsounds.mp3")
 		.play()
 	       ,
+	       newText ("<p> To move to the next page, use the space bar. </p>")
+	       .print()
+	       ,
 	       newKey(" ")
         .wait()
 	       
@@ -3142,6 +3175,9 @@ PennController("experiment" ,
 	       	newAudio("catsounds", "catsounds.mp3")
 		.play()
 	       ,
+	       newText ("<p> To move to the next page, use the space bar. </p>")
+	       .print()
+	       ,
 	       newKey(" ")
         .wait()
 	       
@@ -3284,6 +3320,9 @@ PennController("experiment" ,
     ,
 	       	newAudio("cowsounds2sec", "cowsounds2sec.mp3")
 		.play()
+	       ,
+	       newText ("<p> To move to the next page, use the space bar. </p>")
+	       .print()
 	       ,
 	       newKey(" ")
         .wait()
